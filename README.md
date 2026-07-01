@@ -228,7 +228,7 @@ Students are encouraged to:
 
 **Assistant Professor**
 
-Machine Learning Developer
+AI & ML Engineer
 
 Artificial Intelligence • Machine Learning • Deep Learning • Computer Vision
 
